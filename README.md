@@ -4,4 +4,4 @@
 
 ## Getting Started
 
-
+Testing classification algorithms on employee data from an anonymized employer in order to determine a proactive means of retaining employees before they quit or face disciplinary action due to underperformance. 
